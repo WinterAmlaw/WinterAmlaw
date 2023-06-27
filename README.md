@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hello 👋
+I am a full-stack developer with a passion for Javascript. With one year of experience under my belt, I have honed my skills in developing maintainable solutions for the web. My expertise lies in building sites using React, Contentful, and Express. My goal is to utilize my skills and knowledge to provide exceptional services to clients.
 
+In addition to my technical abilities, I am highly dedicated and committed to delivering quality work every time. I possess excellent communication skills, which allow me to easily collaborate with colleagues and clients alike. My attention to detail and ability to adapt quickly to changes make me an asset to any project.
+
+I am excited about the opportunity to work with you and deliver top-notch solutions that meet your needs. Thank you for considering my candidacy for your next project.
 <!--
 **WinterAmlaw/WinterAmlaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
