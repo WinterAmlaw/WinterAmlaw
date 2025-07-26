@@ -1,5 +1,4 @@
-### Hello 👋
-I like JavaScript.
+AI Systems Engineer | Agent Orchestration · Alignment-Aware MCP Architect · LLM Infrastructure
 <!--
 **WinterAmlaw/WinterAmlaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
