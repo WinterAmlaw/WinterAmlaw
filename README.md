@@ -1,4 +1,4 @@
-AI Systems Engineer | Agent Orchestration · Alignment-Aware MCP Architect · LLM Infrastructure
+Full Stack Developer | Typescript · NextJS · Node · AWS
 <!--
 **WinterAmlaw/WinterAmlaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
