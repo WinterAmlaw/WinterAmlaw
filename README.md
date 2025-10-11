@@ -22,4 +22,6 @@ Here are some ideas to get you started:
 ![HTML Badge](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS Badge](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 
+I lead the design and operation of QIMA’s evolving web platform, expanding on the work of the engineer who came before me. The platform supports our Next.js architecture and is being extended to serve multiple locales through CI/CD automation, AWS infrastructure, and global caching with Valkey and CloudFront.
 
+My focus is reliability, scalability, and performance - building systems that deploy cleanly, recover quickly, and deliver content fast as the platform continues to grow.
