@@ -1,4 +1,4 @@
-Full Stack Developer | Typescript · NextJS · Node · AWS
+Lead Platform Engineer | Next.js, AWS, and CI/CD at QIMA
 <!--
 **WinterAmlaw/WinterAmlaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
