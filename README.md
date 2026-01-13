@@ -1,4 +1,4 @@
-Lead Platform Engineer | Next.js, AWS, and CI/CD at QIMA
+Platform Engineer | Next.js, AWS, and CI/CD at QIMA
 <!--
 **WinterAmlaw/WinterAmlaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -28,6 +28,6 @@ Here are some ideas to get you started:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=000)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
-I lead the design and operation of QIMA’s evolving web platform, expanding on the work of the engineer who came before me. The platform supports our Next.js architecture and is being extended to serve multiple locales through CI/CD automation, AWS infrastructure, and global caching with Valkey and CloudFront.
+I work on the design and operation of QIMA’s evolving web platform, expanding on the work of the engineer who came before me. The platform supports our Next.js architecture and is being extended to serve multiple locales through CI/CD automation, AWS infrastructure, global caching, and CloudFront.
 
 My focus is reliability, scalability, and performance - building systems that deploy cleanly, recover quickly, and deliver content fast as the platform continues to grow.
